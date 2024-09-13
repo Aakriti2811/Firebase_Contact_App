@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: rgb(32, 32, 32);
+    font-family: cursive;
+    overflow-x: hidden;
+    min-width: 370px;
+    height: 100%;
+}
+
+#addCard-root {
+    height: 100%;
+}
